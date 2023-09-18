@@ -52,7 +52,7 @@ if($_POST['register'])
     $pwd      = $_POST['password'];
     $conpwd   = $_POST['conpassword'];
     $gender   = $_POST['gender'];
-    $email    = $_POST['email'];
+    $email    = $_POST['email']; //jlwqhjoqhkdeh
     $phone    = $_POST['phone'];
     $address  = $_POST['address'];
     $hobbies  = $_POST['r1'];
