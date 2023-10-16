@@ -39,7 +39,7 @@ $result = mysqli_fetch_assoc($data);
 
 // echo $total;
 
-if($total !=0)
+if($result !=0)
 {
     ?>
 
